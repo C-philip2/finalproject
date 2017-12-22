@@ -1,0 +1,30 @@
+body{
+	color: #04ff2a;
+	
+}
+h1{
+	font-family: Georgia;
+	text-align: center;
+	font-size: 2em;
+	color: #04ff2a ;
+}
+h2{
+	
+}
+p{
+ color: #04ff2a ; 
+	
+}
+a {
+	color: #04ff2a ; 
+
+}
+a:visited {
+	color: white;
+}
+
+script.static{
+    postion: fixed;
+	border: 3px solid;
+	bottom: 0;
+}
